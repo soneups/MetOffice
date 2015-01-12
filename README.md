@@ -6,3 +6,5 @@ Python script to retrieve MetOffice observational data for given location - curr
 #Depends:
   - API key for Twitter
   - API key for MetOffice
+  - https://pypi.python.org/pypi/MetOffer/1.2
+  - https://twython.readthedocs.org/en/latest/
